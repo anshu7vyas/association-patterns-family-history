@@ -1,0 +1,1 @@
+(mother|brother|grandfather|sister|grandmother|father|mom|dad|son|daughter|uncle|aunt|niece|nephew|cousin)('s|s)*
