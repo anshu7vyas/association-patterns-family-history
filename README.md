@@ -1,0 +1,2 @@
+# Association-Patterns-family-history
+Embarking on learning the KDD process. Using a public dataset, implementing association pattern mining techniques. This includes data preprocessing – extracting sentences with family members names, removal of stop words, Data Mining - implementation of Apriori algorithm and FPGrowth algorithm (Chris Borgelt’s tools). Post processing of word associations – making ordered wordLists and lastly, analysis of the output wordLists against various factors.
